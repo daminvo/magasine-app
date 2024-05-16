@@ -4,10 +4,19 @@ Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native 
 
 ## 🚀 How to use
 
-```sh
-npx create-expo-app -e with-router
+First, Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
+Then, run the development server:
+
+```bash
+npm start
 ```
 
+then install "Expo Go" in your mobile device to run the app in realtime
 ## 📝 Notes
 
 - [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
